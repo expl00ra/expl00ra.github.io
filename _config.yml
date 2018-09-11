@@ -7,15 +7,15 @@ relative_permalinks: false
 # Setup
 title:               Unknown Bit
 tagline:             '-- python, web, bots, data/ai, blockchain'
-description:         'I write on programming subjects. With interest in python, web, bots, data/ai and blockchain tech. Find me on twitter <a href="https://twitter.com/expl00ra" target="_blank">@expl00ra</a>.'
-url:                 https://expl00ra.github.io
+description:         'I write on programming subjects. With interest in python, web, bots, data/ai and blockchain tech. Find me on twitter <a href="https://twitter.com/unrealkaii" target="_blank">unrealkaii</a>.'
+url:                 https://unrealkaii.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Kofi Amanfo II
-  url:               https://twitter.com/expl00ra
+  url:               https://twitter.com/unrealkaii
   email:             expl00ra@protonmail.com
 
 # Custom vars
